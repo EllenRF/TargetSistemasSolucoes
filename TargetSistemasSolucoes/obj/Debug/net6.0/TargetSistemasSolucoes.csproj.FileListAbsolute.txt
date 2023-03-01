@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\bin\Debug\net6.0\TargetSistemasSolucoes.exe
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\bin\Debug\net6.0\TargetSistemasSolucoes.deps.json
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\bin\Debug\net6.0\TargetSistemasSolucoes.runtimeconfig.json
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\bin\Debug\net6.0\TargetSistemasSolucoes.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\bin\Debug\net6.0\TargetSistemasSolucoes.pdb
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\TargetSistemasSolucoes.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\TargetSistemasSolucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\TargetSistemasSolucoes.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\TargetSistemasSolucoes.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\TargetSistemasSolucoes.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\TargetSistemasSolucoes.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\refint\TargetSistemasSolucoes.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\TargetSistemasSolucoes.pdb
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\TargetSistemasSolucoes.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\TargetSistemasSolucoes\obj\Debug\net6.0\ref\TargetSistemasSolucoes.dll
