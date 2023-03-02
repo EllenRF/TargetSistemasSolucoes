@@ -1,9 +1,14 @@
 ﻿using System;
 
-namespace Exercicio04_CalcPercentual// Note: actual namespace depends on the project name.
+namespace Exercicio04_CalcPercentual
 {
     internal class Program
     {
+        /*
+         * Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado
+         * Escreva um programa na linguagem que desejar onde calcule 
+         * o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
+         */
         static void Main(string[] args)
         {
             List<Estados> estados = new List<Estados>

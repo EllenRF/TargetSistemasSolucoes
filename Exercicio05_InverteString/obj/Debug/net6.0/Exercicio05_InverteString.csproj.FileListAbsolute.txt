@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\bin\Debug\net6.0\Exercicio05_InverteString.exe
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\bin\Debug\net6.0\Exercicio05_InverteString.deps.json
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\bin\Debug\net6.0\Exercicio05_InverteString.runtimeconfig.json
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\bin\Debug\net6.0\Exercicio05_InverteString.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\bin\Debug\net6.0\Exercicio05_InverteString.pdb
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\Exercicio05_InverteString.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\Exercicio05_InverteString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\Exercicio05_InverteString.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\Exercicio05_InverteString.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\Exercicio05_InverteString.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\Exercicio05_InverteString.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\refint\Exercicio05_InverteString.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\Exercicio05_InverteString.pdb
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\Exercicio05_InverteString.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio05_InverteString\obj\Debug\net6.0\ref\Exercicio05_InverteString.dll
