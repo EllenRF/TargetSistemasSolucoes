@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\bin\Debug\net6.0\Exercicio04_CalcPercentual.exe
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\bin\Debug\net6.0\Exercicio04_CalcPercentual.deps.json
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\bin\Debug\net6.0\Exercicio04_CalcPercentual.runtimeconfig.json
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\bin\Debug\net6.0\Exercicio04_CalcPercentual.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\bin\Debug\net6.0\Exercicio04_CalcPercentual.pdb
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\Exercicio04_CalcPercentual.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\Exercicio04_CalcPercentual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\Exercicio04_CalcPercentual.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\Exercicio04_CalcPercentual.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\Exercicio04_CalcPercentual.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\Exercicio04_CalcPercentual.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\refint\Exercicio04_CalcPercentual.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\Exercicio04_CalcPercentual.pdb
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\Exercicio04_CalcPercentual.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio04_CalcPercentual\obj\Debug\net6.0\ref\Exercicio04_CalcPercentual.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio04_CalcPercentual/1.0.0": {
+        "runtime": {
+          "Exercicio04_CalcPercentual.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio04_CalcPercentual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

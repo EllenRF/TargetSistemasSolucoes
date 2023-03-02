@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetSistemasSolucoes", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio03_CalcFaturamentoVetor", "Exercicio03_CalcFaturamentoVetor\Exercicio03_CalcFaturamentoVetor.csproj", "{C6176BB1-1C0E-457D-B4E5-E1D2A763A1EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio04_CalcPercentual", "Exercicio04_CalcPercentual\Exercicio04_CalcPercentual.csproj", "{D7E9260B-B586-4C1A-BA82-EC4CE0C41D5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C6176BB1-1C0E-457D-B4E5-E1D2A763A1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6176BB1-1C0E-457D-B4E5-E1D2A763A1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6176BB1-1C0E-457D-B4E5-E1D2A763A1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E9260B-B586-4C1A-BA82-EC4CE0C41D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E9260B-B586-4C1A-BA82-EC4CE0C41D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E9260B-B586-4C1A-BA82-EC4CE0C41D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E9260B-B586-4C1A-BA82-EC4CE0C41D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

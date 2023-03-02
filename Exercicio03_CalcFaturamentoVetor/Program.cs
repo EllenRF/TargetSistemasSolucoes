@@ -30,7 +30,6 @@ internal class Program
                 {
                  soma += fat[j].valor;
                     cont++;
-                Console.WriteLine(cont);
                 }
                 
             }
