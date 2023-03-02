@@ -24,7 +24,7 @@ namespace TargetSistemasSolucoes // Note: actual namespace depends on the projec
         static void Main(string[] args)
         {
             Console.WriteLine("Digite um número:");
-            int num = int.Parse(Console.ReadLine());
+            int num = int.Parse(Console.ReadLine()!);
             Console.WriteLine(verificaFibonacci(num) ? "Pertence a sequência de Fibonacci" : " Não pertence a sequência de Fibonacci");
             Console.ReadKey();
             

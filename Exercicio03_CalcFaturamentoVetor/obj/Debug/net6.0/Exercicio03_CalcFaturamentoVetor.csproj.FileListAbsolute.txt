@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\bin\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.exe
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\bin\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.deps.json
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\bin\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.runtimeconfig.json
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\bin\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\bin\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.pdb
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\refint\Exercicio03_CalcFaturamentoVetor.dll
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.pdb
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\Exercicio03_CalcFaturamentoVetor.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\TargetSistemasSolucoes\Exercicio03_CalcFaturamentoVetor\obj\Debug\net6.0\ref\Exercicio03_CalcFaturamentoVetor.dll

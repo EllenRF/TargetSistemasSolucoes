@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetSistemasSolucoes", "TargetSistemasSolucoes\TargetSistemasSolucoes.csproj", "{12A59AA5-88A0-4B27-9EC1-5C861A214C53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio03_CalcFaturamentoVetor", "Exercicio03_CalcFaturamentoVetor\Exercicio03_CalcFaturamentoVetor.csproj", "{C6176BB1-1C0E-457D-B4E5-E1D2A763A1EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{12A59AA5-88A0-4B27-9EC1-5C861A214C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12A59AA5-88A0-4B27-9EC1-5C861A214C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12A59AA5-88A0-4B27-9EC1-5C861A214C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6176BB1-1C0E-457D-B4E5-E1D2A763A1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6176BB1-1C0E-457D-B4E5-E1D2A763A1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6176BB1-1C0E-457D-B4E5-E1D2A763A1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6176BB1-1C0E-457D-B4E5-E1D2A763A1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
